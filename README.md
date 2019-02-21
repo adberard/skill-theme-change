@@ -1,5 +1,5 @@
 ## Theme Change
-Change the wallpaper and the theme
+Change the wallpaper and the theme with mycroft vocal command
 
 ## Description
 Change the wallpaper them call themer to change the theme colors
